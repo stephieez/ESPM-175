@@ -1,0 +1,7 @@
+geopandas
+ibis-framework[duckdb]
+seaborn
+leafmap
+maplibre
+mapclassify
+nbval
