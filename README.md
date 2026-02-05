@@ -1,13 +1,3 @@
-# Final Project
-
-<!-- EDIT with your badge link -->
-[![Reproducibility Check](https://github.com/espm-157/final-group-stephanie-shawn-final/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/final-group-stephanie-shawn-final/actions/workflows/main.yml)
-
-## Team Members
-
-🦸 Shawn Goh
-🦹 Stephanie Gay
-
 ## Summary
 
 This analysis examines the spatial relationship between data center locations and environmental justice indicators in Oregon. Using EPA's EJScreen dataset aggregated to the county level and data center location data from the IM3 Open Source Data Center Atlas, we investigate whether data centers are disproportionately sited in communities facing elevated environmental burdens or demographic vulnerabilities.
@@ -17,3 +7,7 @@ Our analysis reveals that counties with existing data centers show notably highe
 These findings suggest that data center siting in Oregon may disproportionately impact communities already facing elevated environmental hazards, raising important environmental justice considerations for future development decisions. However, further analysis/tests would be necessary to assess the extent and significance of these trends.
 
 View our interactive map visualizing data center locations and environmental justice indicators at [https://espm-157.github.io/final-group-stephanie-shawn-final/](https://espm-157.github.io/final-group-stephanie-shawn-final/)
+
+## Credit
+🦸 Shawn Goh
+🦹 Stephanie Gay
