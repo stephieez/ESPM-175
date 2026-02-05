@@ -8,6 +8,6 @@ These findings suggest that data center siting in Oregon may disproportionately 
 
 View our interactive map visualizing data center locations and environmental justice indicators at [https://espm-157.github.io/final-group-stephanie-shawn-final/](https://espm-157.github.io/final-group-stephanie-shawn-final/)
 
-## Credit
+## Contributors
 🦸 Shawn Goh
 🦹 Stephanie Gay
